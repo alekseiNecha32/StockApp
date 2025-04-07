@@ -1,0 +1,7 @@
+# Ignore folders
+/bin/
+/obj/
+/DownloadedCsv/
+
+# Ignore CSV files
+*.csv
